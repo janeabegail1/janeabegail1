@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @janeabegail1 a.k.a. Jane
+- 👋🏽 Hi, I’m Jane
 - 👀 I’m on the lookout for Software Engineers looking to join Meta!
 - 🌱 I’m currently learning C++ and Go
 - 💞️ I’m looking to collaborate on open-source projects and some multi-threaded projects
