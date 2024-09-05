@@ -1,9 +1,14 @@
-<b> 👋🏽 Hi, I’m Jane </b>
-- 👀 I’m on the lookout for Software Engineers and Tech professionals looking to join one of the best tech startups in London 🇬🇧! 
-- 🌱 Looking to grow into Tech and Product environment.
-- 💞️ I’m looking to collaborate on open-source projects and some multi-threaded projects
-- 📫 You can reach me via LinkedIn (https://www.linkedin.com/in/jhirewire/)
-- 🍵 Curious about roles I'm hiring for or interested in moving? DM me and we can a virtual coffee or even a real one 😁
+**👋🏽 Hello, I'm Jane!**
+
+- 🚀 **Exciting Opportunity Alert:** I’m on the hunt for talented Software Engineers and Tech professionals to join one of London’s most dynamic tech startups! 🇬🇧
+- 🌱 **Growth Minded:** Passionate about advancing in tech and product realms.
+- 💞️ **Collaboration Enthusiast:** Eager to dive into open-source projects and tackle multi-threaded challenges.
+- 📫 **Let’s Connect:** Find me on LinkedIn: [Jane’s Profile](https://www.linkedin.com/in/jhirewire/)
+- 🍵 **Curious?** If you’re intrigued by the roles I’m hiring for or just want to chat about new opportunities, drop me a DM. I’d love to grab a virtual coffee—or even a real one! 😁
+
+---
+
+How does that sound?
 
 <!---
 janeabegail1/janeabegail1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
