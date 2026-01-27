@@ -21,20 +21,19 @@ Actual robots. Moving. Doing stuff. 🚶🤖
 
 ## 🚀 What I’m Hiring For (aka the fun part)
 <p align="center">
-  <a href="mailto:jsub@thehumanoid.ai?subject=Safe%20RL%20Engineer%20-%20Humanoid">
-    <img src="https://img.shields.io/badge/Safe%20RL-Apply-ff4fa3?style=flat-square" />
+  <a href="https://thehumanoid.ai/vacancy/safe-reinforcement-learning-engineer/?office=London,%20UK">
+    <img src="https://img.shields.io/badge/Safe%20RL-View%20Role-ff4fa3?style=flat-square" />
   </a>
-  <a href="mailto:jsub@thehumanoid.ai?subject=Controls%20Engineer%20-%20Humanoid">
-    <img src="https://img.shields.io/badge/Controls-Apply-ff4fa3?style=flat-square" />
+  <a href="https://thehumanoid.ai/vacancy/controls-engineer/?office=London,%20UK">
+    <img src="https://img.shields.io/badge/Controls-View%20Role-ff4fa3?style=flat-square" />
   </a>
-  <a href="mailto:jsub@thehumanoid.ai?subject=Teleoperation%20Engineer%20-%20Humanoid">
-    <img src="https://img.shields.io/badge/Teleoperation-Apply-ff4fa3?style=flat-square" />
+  <a href="https://thehumanoid.ai/vacancy/teleoperation-engineer/?office=London,%20UK">
+    <img src="https://img.shields.io/badge/Teleoperation-View%20Role-ff4fa3?style=flat-square" />
   </a>
-  <a href="mailto:jsub@thehumanoid.ai?subject=Deep%20Learning%20Engineer%20-%20Humanoid">
-    <img src="https://img.shields.io/badge/Deep%20Learning-Apply-ff4fa3?style=flat-square" />
+  <a href="https://thehumanoid.ai/vacancy/deep-learning-engineer/?office=London,%20UK">
+    <img src="https://img.shields.io/badge/Deep%20Learning-View%20Role-ff4fa3?style=flat-square" />
   </a>
 </p>
-
 
 If you enjoy:
 - hard technical problems  
