@@ -11,7 +11,7 @@
 
 # 👋🏽 Hi, I’m Janey 🌸
 
-I’m a **Technical Talent Partner at Humanoid** — which means I spend my days talking to brilliant engineers and researchers who want to build **humanoid robots that work in the real world**.
+I’m a **Lead Talent Partner at Humanoid** — which means I spend my days talking to brilliant engineers and researchers who want to build **humanoid robots that work in the real world**.
 
 Not slides.  Not hype.  Not “cool demo, shame it never shipped”. Actual robots. Moving. Doing stuff. 🚶🤖
 
