@@ -21,16 +21,16 @@ Actual robots. Moving. Doing stuff. 🚶🤖
 
 ## 🚀 What I’m Hiring For (aka the fun part)
 <p align="center">
-  <a href="https://thehumanoid.ai/vacancy/safe-reinforcement-learning-engineer/?office=London,%20UK">
+  <a href="https://thehumanoid.ai/vacancy/safe-reinforcement-learning-engineer/?office=London">
     <img src="https://img.shields.io/badge/Safe%20RL-View%20Role-ff4fa3?style=flat-square" />
   </a>
-  <a href="https://thehumanoid.ai/vacancy/controls-engineer/?office=London,%20UK">
+  <a href="https://thehumanoid.ai/vacancy/senior-perception-engineer/">
     <img src="https://img.shields.io/badge/Controls-View%20Role-ff4fa3?style=flat-square" />
   </a>
-  <a href="https://thehumanoid.ai/vacancy/teleoperation-engineer/?office=London,%20UK">
+  <a href="https://thehumanoid.ai/vacancy/safe-rl-control-engineer/?Id=6093">
     <img src="https://img.shields.io/badge/Teleoperation-View%20Role-ff4fa3?style=flat-square" />
   </a>
-  <a href="https://thehumanoid.ai/vacancy/deep-learning-engineer/?office=London,%20UK">
+  <a href="https://thehumanoid.ai/vacancy/staff-control-software-engineer/">
     <img src="https://img.shields.io/badge/Deep%20Learning-View%20Role-ff4fa3?style=flat-square" />
   </a>
 </p>
