@@ -13,9 +13,8 @@
 
 I’m a **Technical Talent Partner at Humanoid** — which means I spend my days talking to brilliant engineers and researchers who want to build **humanoid robots that work in the real world**.
 
-Not slides.  Not hype.  Not “cool demo, shame it never shipped”.
+Not slides.  Not hype.  Not “cool demo, shame it never shipped”. Actual robots. Moving. Doing stuff. 🚶🤖
 
-Actual robots. Moving. Doing stuff. 🚶🤖
 ---
 
 ## 🚀 What I’m Hiring For (aka the fun part)
@@ -48,13 +47,16 @@ Actual robots. Moving. Doing stuff. 🚶🤖
     />
   </a>
 </p>
-If you enjoy:
-- hard technical problems  
-- real hardware  
-- ambiguity  
-- and seeing your work leave the lab  
+
+<p>
+<p>If you enjoy:</p>
+<p>- hard technical problems  </p>
+<p>- real hardware</p>  
+<p>- ambiguity </p> 
+<p>- and seeing your work leave the lab  </p>
 
 …we’ll probably get along.
+</p>
 
 ## 🛠 Tools & Tech (not exhaustive, just vibes)
 <p align="center">
