@@ -26,8 +26,8 @@ Actual robots. Moving. Doing stuff. 🚶🤖
   <a href="https://thehumanoid.ai/vacancy/senior-perception-engineer/">
     <img src="https://img.shields.io/badge/Perception-View%20Role-ff4fa3?style=flat-square" />
   </a>
-  <a href="https://thehumanoid.ai/vacancy/safe-rl-control-engineer/?Id=6093">
-    <img src="https://img.shields.io/badge/Safe%20RL%20Controls-View%20Role-ff4fa3?style=flat-square" />
+  <a href="https://thehumanoid.ai/vacancy/senior-engineer-vision-language-action-vla-behaviour-learning/">
+    <img src="https://img.shields.io/badge/Deep%20Learning-View%20Role-ff4fa3?style=flat-square" />
   </a>
   <a href="https://thehumanoid.ai/vacancy/staff-control-software-engineer/">
     <img src="https://img.shields.io/badge/Controls-View%20Role-ff4fa3?style=flat-square" />
