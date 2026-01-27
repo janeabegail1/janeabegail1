@@ -20,20 +20,34 @@ Actual robots. Moving. Doing stuff. 🚶🤖
 
 ## 🚀 What I’m Hiring For (aka the fun part)
 <p align="center">
-  <a href="https://thehumanoid.ai/vacancy/safe-reinforcement-learning-engineer/?office=London">
-    <img src="https://img.shields.io/badge/Safe%20RL-View%20Role-ff4fa3?style=flat-square" />
+  <a href="https://thehumanoid.ai/vacancy/safe-rl-control-engineer/">
+    <img
+      src="https://img.shields.io/badge/Safe%20RL%20Control-View%20Role-ff4fa3?style=flat-square"
+      title="Safe RL + Control Engineer — safe and constrained reinforcement learning for humanoid robots"
+    />
   </a>
+
   <a href="https://thehumanoid.ai/vacancy/senior-perception-engineer/">
-    <img src="https://img.shields.io/badge/Perception-View%20Role-ff4fa3?style=flat-square" />
+    <img
+      src="https://img.shields.io/badge/Perception-View%20Role-ff4fa3?style=flat-square"
+      title="Senior Perception Engineer — vision, sensing, and spatial understanding for humanoids"
+    />
   </a>
+
   <a href="https://thehumanoid.ai/vacancy/senior-engineer-vision-language-action-vla-behaviour-learning/">
-    <img src="https://img.shields.io/badge/Deep%20Learning-View%20Role-ff4fa3?style=flat-square" />
+    <img
+      src="https://img.shields.io/badge/Deep%20Learning-View%20Role-ff4fa3?style=flat-square"
+      title="Deep Learning Engineer — Vision, Language & Action (VLA) behaviour learning"
+    />
   </a>
+
   <a href="https://thehumanoid.ai/vacancy/staff-control-software-engineer/">
-    <img src="https://img.shields.io/badge/Controls-View%20Role-ff4fa3?style=flat-square" />
+    <img
+      src="https://img.shields.io/badge/Controls-View%20Role-ff4fa3?style=flat-square"
+      title="Staff Control Software Engineer — real-time control systems for humanoid robots"
+    />
   </a>
 </p>
-
 If you enjoy:
 - hard technical problems  
 - real hardware  
