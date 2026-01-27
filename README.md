@@ -9,14 +9,13 @@
 
 ---
 
-## 👋🏽 Hi, I’m Janey 🌸
+# 👋🏽 Hi, I’m Janey 🌸
 
 I’m a **Technical Talent Partner at Humanoid** — which means I spend my days talking to brilliant engineers and researchers who want to build **humanoid robots that work in the real world**.
 
 Not slides.  Not hype.  Not “cool demo, shame it never shipped”.
 
 Actual robots. Moving. Doing stuff. 🚶🤖
-
 ---
 
 ## 🚀 What I’m Hiring For (aka the fun part)
@@ -25,13 +24,13 @@ Actual robots. Moving. Doing stuff. 🚶🤖
     <img src="https://img.shields.io/badge/Safe%20RL-View%20Role-ff4fa3?style=flat-square" />
   </a>
   <a href="https://thehumanoid.ai/vacancy/senior-perception-engineer/">
-    <img src="https://img.shields.io/badge/Controls-View%20Role-ff4fa3?style=flat-square" />
+    <img src="https://img.shields.io/badge/Perception-View%20Role-ff4fa3?style=flat-square" />
   </a>
   <a href="https://thehumanoid.ai/vacancy/safe-rl-control-engineer/?Id=6093">
-    <img src="https://img.shields.io/badge/Teleoperation-View%20Role-ff4fa3?style=flat-square" />
+    <img src="https://img.shields.io/badge/Safe%20RL%20Controls-View%20Role-ff4fa3?style=flat-square" />
   </a>
   <a href="https://thehumanoid.ai/vacancy/staff-control-software-engineer/">
-    <img src="https://img.shields.io/badge/Deep%20Learning-View%20Role-ff4fa3?style=flat-square" />
+    <img src="https://img.shields.io/badge/Controls-View%20Role-ff4fa3?style=flat-square" />
   </a>
 </p>
 
