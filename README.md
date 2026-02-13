@@ -11,7 +11,7 @@
 
 # 👋🏽 Hi, I’m Janey 🌸
 
-I’m a **Lead Talent Partner at Humanoid** — which means I spend my days talking to brilliant engineers and researchers who want to build **humanoid robots that work in the real world**.
+I’m a **Lead Talent Partner at Stealth Startup** — which means I spend my days talking to brilliant engineers and researchers who want to build **humanoid robots that work in the real world**.
 
 Not slides.  Not hype.  Not “cool demo, shame it never shipped”. Actual robots. Moving. Doing stuff. 🚶🤖
 
@@ -68,9 +68,6 @@ Not slides.  Not hype.  Not “cool demo, shame it never shipped”. Actual robo
 <p align="center">
   <a href="https://www.linkedin.com/in/jhirewire/">
     <img src="https://img.shields.io/badge/LinkedIn-Jane%20Sumbilla-ff4fa3?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:jsub@thehumanoid.ai">
-    <img src="https://img.shields.io/badge/Email-jsub@thehumanoid.ai-ff4fa3?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
