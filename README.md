@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=FF4FA3&center=true&vCenter=true&width=750&lines=Technical+Talent+Partner+%40+Humanoid;Hiring+engineers+who+build+real+robots;Safe+RL+%7C+Controls+%7C+Teleop+%7C+Deep+Learning;Yes%2C+the+robots+actually+exist+🤖" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=FF4FA3&center=true&vCenter=true&width=750&lines=Technical+Talent+Partner+;Hiring+engineers+who+build+real+robots;Safe+RL+%7C+Controls+%7C+Teleop+%7C+Deep+Learning;Yes%2C+the+robots+actually+exist+🤖" />
 </p>
 
 ---
