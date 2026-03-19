@@ -10,7 +10,7 @@
 
 ---
 
-# 👋 Hi, I’m Jane
+# 👋 Hi, I’m Janey
 
 I’m a **Lead Talent Partner at Tessl**.
 
