@@ -31,7 +31,7 @@ That means:
 - **Product & Design (AI-native workflows)**  
 - **Marketing (Demand Gen, Product Marketing, Content)**  
 
-👉 (https://jobs.ashbyhq.com/tesslcareers?utm_source=chatgpt.com)
+👉 (https://jobs.ashbyhq.com/tesslcareers)
 
 We’re growing across engineering, product, and go-to-market as we scale the platform.
 
