@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Janey+%F0%9F%A7%8B;Lead+Talent+Partner+%40+Tessl;Building+AI-native+engineering+teams;Let's+build+the+future+together+%F0%9F%9A%80" alt="Typing SVG" />
-</a>a>
+</a>
 
 <br/>
 
@@ -122,4 +122,4 @@ We're building a platform where **AI agents genuinely contribute to real softwar
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
-</div>div>
+</div>
