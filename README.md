@@ -3,11 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Your+Next+Chapter+Starts+Here+🚀&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&color=gradient&customColorList=6,11,20" width="100%"/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Janey+🦸;Lead+Talent+Partner+%40+Tessl;We+hire+builders%2C+makers+%26+storytellers+✨;Find+your+next+big+thing+here+🚀" alt="Typing SVG" />
-</a>
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhirewire/)
