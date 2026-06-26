@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhirewire/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janeabegail1)
-[![Location](https://img.shields.io/badge/📍_Boston-FF6B6B?style=for-the-badge)](https://github.com/janeabegail1)
+[![Location](https://img.shields.io/badge/📍_London,+UK-FF6B6B?style=for-the-badge)](https://github.com/janeabegail1)
 
 </div>
 
