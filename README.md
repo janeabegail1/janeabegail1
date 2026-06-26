@@ -36,19 +36,21 @@ We're building a platform where **AI agents genuinely contribute to real softwar
 
 <div align="center">
 
-| Role | Level | Vibe |
-|------|-------|-------|
-| 🧠 AI Engineer | MTS / Senior / Lead | You think in systems, not just models |
-| ⚙️ Software Engineer | AI-native | You want AI as a real teammate |
-| 🔭 Forward Deployed Engineer | All levels | You love customer + product loops |
-| 🏗️ Engineering Lead | AI + Platform | You build teams & architecture |
-| 🎨 Product & Design | AI-native workflows | You make AI usable |
-| 📣 Marketing | Demand Gen / PMM | You tell the story of the future |
+| Role | Dept | Location | Vibe |
+|------|------|----------|-------|
+| 🥑 Developer Advocate | DevRel | New York · Remote | You make devs love the product |
+| 🥑 Developer Advocate | DevRel | San Francisco · Remote | You make devs love the product |
+| 🎨 Marketing/Content Designer | Marketing | London · Hybrid | You make it look irresistible |
+| 📣 Product Marketing Manager | Marketing | London · Hybrid | You tell the story of the future |
+| 🖌️ Member of Design Staff - Product Designer | Product | London · Hybrid | You make AI usable |
+| 🧩 Member of Product Staff - Product Manager | Product | London · Hybrid | You shape what gets built |
+| ⚙️ Member of Technical Staff - Software Engineer | R&D | London · Hybrid | You want AI as a real teammate |
+| 🔬 Member of Technical Staff - Research Engineer | R&D | London · Hybrid | You work on agentic orchestration |
+| 🤝 Field Engineer (Presales) | Sales | London · Hybrid | You bridge product and customer |
 
 </div>
 
 👉 **[View all open roles → jobs.ashbyhq.com/tesslcareers](https://jobs.ashbyhq.com/tesslcareers)**
-
 ---
 
 ## 🧠 What We're Actually Working On
