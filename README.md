@@ -1,8 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Your+Next+Chapter+Starts+Here+🚀&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&color=gradient&customColorList=6,11,20" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Your+Next+Chapter+Starts+Here+🚀&fontColor=ffffff&fontSize=42&animatin=fadeIn&fontAlignY=38&color=gradient&customColorList=6,11,20" width="100%"/>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhirewire/)
@@ -35,13 +34,12 @@ We're building a platform where **AI agents genuinely contribute to real softwar
 |------|------|----------|-------|
 | 🥑 Developer Advocate | DevRel | New York · Remote | You make devs love the product |
 | 🥑 Developer Advocate | DevRel | San Francisco · Remote | You make devs love the product |
-| 🎨 Marketing/Content Designer | Marketing | London · Hybrid | You make it look irresistible |
+| 🎙️ Member of Marketing Staff - Marketing Producer FTC | Marketing | London · Hybrid | You make it look irresistible |
 | 📣 Product Marketing Manager | Marketing | London · Hybrid | You tell the story of the future |
-| 🖌️ Member of Design Staff - Product Designer | Product | London · Hybrid | You make AI usable |
 | 🧩 Member of Product Staff - Product Manager | Product | London · Hybrid | You shape what gets built |
 | ⚙️ Member of Technical Staff - Software Engineer | R&D | London · Hybrid | You want AI as a real teammate |
 | 🔬 Member of Technical Staff - Research Engineer | R&D | London · Hybrid | You work on agentic orchestration |
-| 🤝 Field Engineer (Presales) | Sales | London · Hybrid | You bridge product and customer |
+| 🤝 Sales Field Engineer (Presales) | Sales | New York · Hybrid | You bridge product and customer |
 
 </div>
 
