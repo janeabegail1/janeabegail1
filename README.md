@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm a **Lead Talent Partner at [Tessl](https://jobs.ashbyhq.com/tesslcareers)** — and I'm on a mission to find engineers who don't just write code, they *shape* how AI actually works in production.
+I'm a **Lead Talent Partner at [Tessl](https://jobs.ashbyhq.com/tsslcareers)** — and I'm on a mission to find engineers who don't just write code, they *shape* how AI actually works in production.
 
 We're building a platform where **AI agents genuinely contribute to real software development** — not just autocomplete on steroids, but spec-driven, multi-agent, production-grade systems.
 
@@ -50,15 +50,13 @@ We're building a platform where **AI agents genuinely contribute to real softwar
 
 <div align="center">
 
-```
-🤖  Agent-based software development
-📋  Spec-driven engineering (not code-first)
-🕸️  Multi-agent systems & orchestration
-🔍  Context generation + retrieval (RAG + beyond)
-📊  Evaluation frameworks for AI systems
-🛠️  Developer tooling for AI-native workflows
-🤝  Making AI a reliable teammate (not just a demo)
-```
+🤖 &nbsp;Agent-based software development<br>
+📋 &nbsp;Spec-driven engineering (not code-first)<br>
+🕸️ &nbsp;Multi-agent systems & orchestration<br>
+🔍 &nbsp;Context generation + retrieval (RAG + beyond)<br>
+📊 &nbsp;Evaluation frameworks for AI systems<br>
+🛠️ &nbsp;Developer tooling for AI-native workflows<br>
+🤝 &nbsp;Making AI a reliable teammate (not just a demo)
 
 </div>
 
