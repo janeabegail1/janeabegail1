@@ -32,14 +32,15 @@ We're building a platform where **AI agents genuinely contribute to real softwar
 
 | Role | Dept | Location | Vibe |
 |------|------|----------|-------|
-| 🥑 Developer Advocate | DevRel | New York · Remote | You make devs love the product |
-| 🥑 Developer Advocate | DevRel | San Francisco · Remote | You make devs love the product |
-| 🎙️ Member of Marketing Staff - Marketing Producer FTC | Marketing | London · Hybrid | You make it look irresistible |
-| 📣 Product Marketing Manager | Marketing | London · Hybrid | You tell the story of the future |
+| 🥑 Member of DevRel Staff - Developer Advocate | DevRel | London · Hybrid | You make devs love the product |
+| 🥑 Member of DevRel Staff - Developer Advocate | DevRel | New York · Remote | You make devs love the product |
+| 🥑 Member of DevRel Staff - Developer Advocate | DevRel | San Francisco · Remote | You make devs love the product |
+| 🎙️ Member of Marketing Staff - Events Marketing Specialist | Marketing | New York · Remote | You make it look irresistible |
 | 🧩 Member of Product Staff - Product Manager | Product | London · Hybrid | You shape what gets built |
 | ⚙️ Member of Technical Staff - Software Engineer | R&D | London · Hybrid | You want AI as a real teammate |
+| 🔧 Member of Technical Staff (Platform Leaning) | R&D | London · Hybrid | You build the backbone of Tessl |
 | 🔬 Member of Technical Staff - Research Engineer | R&D | London · Hybrid | You work on agentic orchestration |
-| 🤝 Sales Field Engineer (Presales) | Sales | New York · Hybrid | You bridge product and customer |
+| 🤝 Enterprise Account Executive - North America | Sales | United States · Remote | You close the future |
 
 </div>
 
