@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi,+I'm+Jane+👋&desc=Lead+Talent+Partner+@+Tessl&descAlignY=62&descSize=20&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=38&color=gradient&customColorList=6,11,20" width="100%"/>
 
 <a href="https://jobs.ashbyhq.com/tesslcareers">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=720&lines=I+help+engineers+find+their+next+big+problem+🧩;Tessl+gives+AI+agents+the+context+to+ship+real+code+🤖;Specs+in.+Reliable+software+out.+📋;We're+hiring+in+London,+NYC+%26+the+US+🚀;Grab+a+bubble+tea+and+let's+chat+🧋" alt="Typing intro"/>
+  <img src="assets/intro.svg" alt="Typing intro"/>
 </a>
 
 <br/>
@@ -38,7 +38,7 @@ I read code, I ask about trade-offs, and I'll tell you honestly whether a role f
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=110&lines=%24+npm+i+-g+%40tessl%2Fcli;%24+tessl+i+tessl-labs%2Fexample;✔+skill+installed+for+your+agent;✔+agent+ships+code+your+team+trusts+🎉" alt="Terminal demo"/>
+<img src="assets/terminal.svg" alt="Terminal demo"/>
 
 </div>
 
@@ -54,7 +54,7 @@ I read code, I ask about trade-offs, and I'll tell you honestly whether a role f
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Your+seat+is+waiting...+🪑;Click+a+role+to+apply+👇" alt="Hiring"/>
+<img src="assets/hiring.svg" alt="Hiring"/>
 
 | Role | Team | Location | You'll love it if... |
 |------|------|----------|----------------------|
@@ -140,7 +140,7 @@ I read code, I ask about trade-offs, and I'll tell you honestly whether a role f
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Looking+for+your+next+role%3F;Curious+about+Tessl%3F;Just+want+to+talk+AI+agents%3F;Drop+me+a+DM+💌" alt="Let's connect"/>
+<img src="assets/connect.svg" alt="Let's connect"/>
 
 <br/>
 
