@@ -1,0 +1,67 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 620 110'
+    style='background-color: #00000000;'
+    width='620px' height='110px'>
+
+    <style>
+</style>
+
+                    <path id='path0'>
+                            <!-- Multiline -->
+                                <animate id='d0' attributeName='d' begin='0s;d3.end'
+                    dur='3300ms' fill="freeze"
+                    values='m0,23 h0 ; m0,23 h0 ; m0,23 h620 ; m0,23 h620' keyTimes='0;0;0.75757575757576;1' />
+                    </path>
+    <text font-family='"Fira Code", monospace' fill='#22C55E' font-size='18'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path0'>
+            $ npm i -g @tessl/cli
+        </textPath>
+    </text>
+        <path id='path1'>
+                            <!-- Multiline -->
+                                <animate id='d1' attributeName='d' begin='0s;d3.end'
+                    dur='6600ms' fill="freeze"
+                    values='m0,46 h0 ; m0,46 h0 ; m0,46 h620 ; m0,46 h620' keyTimes='0;0.5;0.87878787878788;1' />
+                    </path>
+    <text font-family='"Fira Code", monospace' fill='#22C55E' font-size='18'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path1'>
+            $ tessl i tessl-labs/example
+        </textPath>
+    </text>
+        <path id='path2'>
+                            <!-- Multiline -->
+                                <animate id='d2' attributeName='d' begin='0s;d3.end'
+                    dur='9900ms' fill="freeze"
+                    values='m0,69 h0 ; m0,69 h0 ; m0,69 h620 ; m0,69 h620' keyTimes='0;0.66666666666667;0.91919191919192;1' />
+                    </path>
+    <text font-family='"Fira Code", monospace' fill='#22C55E' font-size='18'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path2'>
+            ✔ skill installed for your agent
+        </textPath>
+    </text>
+        <path id='path3'>
+                            <!-- Multiline -->
+                                <animate id='d3' attributeName='d' begin='0s;d3.end'
+                    dur='13200ms' fill="freeze"
+                    values='m0,92 h0 ; m0,92 h0 ; m0,92 h620 ; m0,92 h620' keyTimes='0;0.75;0.93939393939394;1' />
+                    </path>
+    <text font-family='"Fira Code", monospace' fill='#22C55E' font-size='18'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path3'>
+            ✔ agent ships code your team trusts 🎉
+        </textPath>
+    </text>
+</svg>
