@@ -1,12 +1,18 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Your+Next+Chapter+Starts+Here+🚀&fontColor=ffffff&fontSize=42&animatin=fadeIn&fontAlignY=38&color=gradient&customColorList=6,11,20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi,+I'm+Jane+👋&desc=Lead+Talent+Partner+@+Tessl&descAlignY=62&descSize=20&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=38&color=gradient&customColorList=6,11,20" width="100%"/>
+
+<a href="https://jobs.ashbyhq.com/tesslcareers">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=720&lines=I+help+engineers+find+their+next+big+problem+🧩;Tessl+gives+AI+agents+the+context+to+ship+real+code+🤖;Specs+in.+Reliable+software+out.+📋;We're+hiring+in+London,+NYC+%26+the+US+🚀;Grab+a+bubble+tea+and+let's+chat+🧋" alt="Typing intro"/>
+</a>
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhirewire/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janeabegail1)
-[![Location](https://img.shields.io/badge/📍_London,+UK-FF6B6B?style=for-the-badge)](https://github.com/janeabegail1)
+[![Tessl](https://img.shields.io/badge/tessl.io-A855F7?style=for-the-badge&logo=rocket&logoColor=white)](https://tessl.io/)
+[![Open Roles](https://img.shields.io/badge/7_open_roles-22C55E?style=for-the-badge&logo=ashby&logoColor=white)](https://jobs.ashbyhq.com/tesslcareers)
+[![Location](https://img.shields.io/badge/📍_London,_UK-FF6B6B?style=for-the-badge)](https://github.com/janeabegail1)
 
 </div>
 
@@ -14,37 +20,58 @@
 
 ## 🤖 What I Do
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm a **Lead Talent Partner at [Tessl](https://jobs.ashbyhq.com/tsslcareers)** — and I'm on a mission to find engineers who don't just write code, they *shape* how AI actually works in production.
+I'm a **Lead Talent Partner at [Tessl](https://tessl.io/)**, and I spend my days finding engineers who want to shape how AI works in production, not just watch it happen.
 
-We're building a platform where **AI agents genuinely contribute to real software development** — not just autocomplete on steroids, but spec-driven, multi-agent, production-grade systems.
+At Tessl we're building the platform that gives AI agents the **context, constraints and workflows** they need to work alongside developers on real codebases.
 
-> Less "prompt and pray." More **structured, reliable engineering.**
->
-> <br clear="right"/>
+> Less "prompt and pray." More **structured, reliable engineering.** 🛠️
+
+I read code, I ask about trade-offs, and I'll tell you honestly whether a role fits. No buzzword bingo. 🎯
+
+<br clear="right"/>
 
 ---
 
-## 🚀 Roles I'm Hiring For RIGHT NOW
+## ✨ Tessl in 30 Seconds
 
 <div align="center">
 
-| Role | Dept | Location | Vibe |
-|------|------|----------|-------|
-| 🥑 Member of DevRel Staff - Developer Advocate | DevRel | London · Hybrid | You make devs love the product |
-| 🥑 Member of DevRel Staff - Developer Advocate | DevRel | New York · Remote | You make devs love the product |
-| 🥑 Member of DevRel Staff - Developer Advocate | DevRel | San Francisco · Remote | You make devs love the product |
-| 🎙️ Member of Marketing Staff - Events Marketing Specialist | Marketing | New York · Remote | You make it look irresistible |
-| 🧩 Member of Product Staff - Product Manager | Product | London · Hybrid | You shape what gets built |
-| ⚙️ Member of Technical Staff - Software Engineer | R&D | London · Hybrid | You want AI as a real teammate |
-| 🔧 Member of Technical Staff (Platform Leaning) | R&D | London · Hybrid | You build the backbone of Tessl |
-| 🔬 Member of Technical Staff - Research Engineer | R&D | London · Hybrid | You work on agentic orchestration |
-| 🤝 Enterprise Account Executive - North America | Sales | United States · Remote | You close the future |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=110&lines=%24+npm+i+-g+%40tessl%2Fcli;%24+tessl+i+tessl-labs%2Fexample;✔+skill+installed+for+your+agent;✔+agent+ships+code+your+team+trusts+🎉" alt="Terminal demo"/>
 
 </div>
 
-👉 **[View all open roles → jobs.ashbyhq.com/tesslcareers](https://jobs.ashbyhq.com/tesslcareers)**
+| | |
+|---|---|
+| 📦 **Skills are software** | Tessl is a package manager for agent skills, so you can version, share and evaluate them like any other dependency. [Read the launch post →](https://tessl.io/blog/skills-are-software-and-they-need-a-lifecycle-introducing-skills-on-tessl/) |
+| 📋 **Spec-driven development** | Agents work from specs, so the output matches what your team actually meant. [Why we started Tessl →](https://www.tessl.io/blog/announcing-tessl-the-ai-native-development-startup) |
+| 🎧 **Hear it from our CEO** | Guy Podjarny on ending fragmented agent context. [Watch the podcast →](https://youtu.be/ntkM-hRblfo) |
+
+---
+
+## 🚀 Roles I'm Hiring For Right Now
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Your+seat+is+waiting...+🪑;Click+a+role+to+apply+👇" alt="Hiring"/>
+
+| Role | Team | Location | You'll love it if... |
+|------|------|----------|----------------------|
+| ⚙️ [Software Engineer](https://jobs.ashbyhq.com/tesslcareers/d1d5aa98-bf42-46d3-ac4c-021f20e004f7) | R&D | London · Hybrid | You want AI as a real teammate |
+| 🔧 [Member of Technical Staff (Platform Leaning)](https://jobs.ashbyhq.com/tesslcareers/0d1359c7-e75a-4438-a6ae-f660d468ea1e) | R&D | London · Hybrid | You build the backbone everything runs on |
+| 🔬 [Research Engineer (Harness Engineering & Agentic Orchestration)](https://jobs.ashbyhq.com/tesslcareers/f6d8711c-d3f2-4b47-9330-cfece341be4f) | R&D | London · Hybrid | You want to make agents work together |
+| 🥑 [Developer Advocate](https://jobs.ashbyhq.com/tesslcareers/8eeda9c5-5790-4fb4-a209-fc071d4d9d4c) | DevRel | San Francisco · Remote | You make devs love the product |
+| 📈 [Marketing Manager (Demand Generation)](https://jobs.ashbyhq.com/tesslcareers/6e858ffe-30c0-4f41-a47f-58c7f84a72ca) | Marketing | London · Hybrid | You turn curiosity into pipeline |
+| 🎙️ [Events Marketing Specialist](https://jobs.ashbyhq.com/tesslcareers/d3faae9f-6b75-4877-a96d-5a9f9c6280f3) | Marketing | New York · Remote | You make every event a must-attend |
+| 🤝 [Enterprise Account Executive](https://jobs.ashbyhq.com/tesslcareers/6423c1c4-4887-412e-9a44-35e1302b66b2) | Sales | United States · Remote | You love selling to engineering leaders |
+
+🏢 London teammates are in the office **Monday, Tuesday and Thursday**, our anchor days.
+
+👉 **[See every open role →](https://jobs.ashbyhq.com/tesslcareers)**
+
+</div>
+
 ---
 
 ## 🧠 What We're Actually Working On
@@ -52,12 +79,12 @@ We're building a platform where **AI agents genuinely contribute to real softwar
 <div align="center">
 
 🤖 &nbsp;Agent-based software development<br>
+📦 &nbsp;Skills as versioned, shareable packages<br>
 📋 &nbsp;Spec-driven engineering (not code-first)<br>
 🕸️ &nbsp;Multi-agent systems & orchestration<br>
 🔍 &nbsp;Context generation + retrieval (RAG + beyond)<br>
 📊 &nbsp;Evaluation frameworks for AI systems<br>
-🛠️ &nbsp;Developer tooling for AI-native workflows<br>
-🤝 &nbsp;Making AI a reliable teammate (not just a demo)
+🛠️ &nbsp;Developer tooling for AI-native workflows
 
 </div>
 
@@ -86,14 +113,26 @@ We're building a platform where **AI agents genuinely contribute to real softwar
 <div align="center">
 
 > *"The best recruiters actually understand what you do."*
->
-> <img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif" width="200"/>
 
-**If you've ever felt like a hiring process was built by people who've never seen a terminal...** 👀
+<img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif" width="220"/>
 
-**I get it. Let's talk differently.**
+**Ever felt like a hiring process was built by people who've never seen a terminal?** 👀
+
+**Same. So I do it differently.**
 
 </div>
+
+<details>
+<summary><b>🧋 What talking to me looks like (click me)</b></summary>
+
+<br/>
+
+- ☕ **A real conversation first.** We talk about what you want to build next, not just your CV.
+- 🔍 **Straight answers.** Team, role, process, timelines. Ask me anything.
+- 🔄 **Fast updates.** You'll always know where you stand.
+- 🙅 **No spam.** If a role isn't right for you, I'll say so.
+
+</details>
 
 ---
 
@@ -101,10 +140,13 @@ We're building a platform where **AI agents genuinely contribute to real softwar
 
 <div align="center">
 
-**Hiring Top Talent 🚀 | Looking for your next role? Drop a DM!**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Looking+for+your+next+role%3F;Curious+about+Tessl%3F;Just+want+to+talk+AI+agents%3F;Drop+me+a+DM+💌" alt="Let's connect"/>
 
-[![Email](https://img.shields.io/badge/Drop_me_a_DM-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/jhirewire/)
+<br/>
+
+[![LinkedIn DM](https://img.shields.io/badge/Drop_me_a_DM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhirewire/)
 [![Tessl Careers](https://img.shields.io/badge/View_Open_Roles-A855F7?style=for-the-badge&logo=rocket&logoColor=white)](https://jobs.ashbyhq.com/tesslcareers)
+[![Tessl Blog](https://img.shields.io/badge/Read_the_Blog-22C55E?style=for-the-badge&logo=rss&logoColor=white)](https://tessl.io/blog/)
 
 <br/>
 
@@ -115,5 +157,5 @@ We're building a platform where **AI agents genuinely contribute to real softwar
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer&animation=twinkling" width="100%"/>
 </div>
